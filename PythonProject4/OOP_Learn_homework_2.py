@@ -1,3 +1,4 @@
+# Задание №2
 class Mentor:
     def __init__(self, name, surname):
         self.name = name
